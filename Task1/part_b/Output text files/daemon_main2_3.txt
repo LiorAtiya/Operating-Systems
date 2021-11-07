@@ -1,0 +1,6 @@
+Apr  5 01:26:55 lior myDaemon[5424]: daemon started
+Apr  5 01:26:58 lior myDaemon[5424]: Second update of log
+Apr  5 01:27:01 lior myDaemon[5424]: Third update of log
+Apr  5 01:29:54 lior myDaemon[5439]: daemon started
+Apr  5 01:29:57 lior myDaemon[5439]: Second update of log
+Apr  5 01:30:00 lior myDaemon[5439]: Third update of log

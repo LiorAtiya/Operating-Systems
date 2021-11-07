@@ -1,0 +1,1 @@
+hello_ariel.c: C source, ASCII text

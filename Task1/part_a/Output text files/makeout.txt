@@ -1,0 +1,8 @@
+gcc -c main1_1.c
+gcc -c hello_ariel.c
+gcc main1_1.o hello_ariel.o -o main1_1
+gcc -c main1_2.c
+gcc -shared -o libHelloAriel.so -fPIC hello_ariel.o
+gcc -o main1_2 main1_2.o -L. ./libHelloAriel.so
+cc    -c -o main1_3.o main1_3.c
+gcc main1_3.c -fPIC -ldl -o main1_3

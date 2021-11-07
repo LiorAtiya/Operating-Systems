@@ -1,0 +1,1 @@
+main1_3: ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=0589d11e63675afdb0213a51cb179d5d86c00a9b, for GNU/Linux 3.2.0, not stripped
